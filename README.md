@@ -1,2 +1,2 @@
 # sqlmesh
- Trying out sqlmesh
+This repo will contain my sqlmesh learnings.
